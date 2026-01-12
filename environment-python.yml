@@ -1,0 +1,52 @@
+name: xeus-python-kernel
+channels:
+  - https://prefix.dev/emscripten-forge-dev
+  - https://prefix.dev/conda-forge
+dependencies:
+  - xeus-python
+  - numpy
+  - matplotlib
+  - pillow
+  - ipywidgets>=8.1.6
+  - ipyleaflet
+  - scipy
+  - ipycanvas
+  - requests
+  - plotly
+  - tinydb
+  - robobrowser
+  - lxml
+  - beautifulsoup4
+  - wordcloud
+  - textblob
+  - pandas
+  - sparqlwrapper
+  - geopandas
+  - bokeh
+  - descartes
+  - pysal
+  - seaborn
+  - scikit-learn
+  - scikit-image
+  - imageio
+  - laspy
+  - datashader
+  - mesa
+  - spacy
+  - networkx
+  - libspatialindex
+  - fiona
+  - opencv-python
+  - gdal
+  - rasterio
+  - rtree
+  - pip:
+      - sqlitebiter
+      - osgeo
+      - miditime
+      - simpleneighbors[annoy]
+      - tracery
+      # - pygeoprocessing
+      # https://github.com/aparrish/semanticsimilaritychatbot/
+
+
