@@ -1,3 +1,0 @@
- # themes
- jupyterlab_solarized_light_theme
- jupyterlab_theme_solarized_dark

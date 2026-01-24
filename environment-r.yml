@@ -5,14 +5,14 @@ channels:
 dependencies:
   - xeus-r
   - r-ggplot2
-  - r-archdata
-  - r-rcurl
+  - r-dplyr
   - r-jsonlite
   - r-dbi
-  - r-rsqlite
-  - r-sparql
-  - r-dplyr
-  - r-miniui
-  - r-rjava
-  - r-tabulizer
+  # - r-archdata
+  # - r-rcurl
+  # - r-rsqlite
+  # - r-sparql
+  # - r-miniui
+  # - r-rjava
+  # - r-tabulizer
   # - devtools::install_github("daniel1noble/metaDigitise")
