@@ -13,5 +13,3 @@ Current instructions for running locally:
 - `pip install jupyter_server`
 - `jupyter lite build --output-dir dist`
 - `jupyter lite serve`
-
-> **Note:** Currently will not build due to failures processing the `environment` files. Largely, "x package does not exist (perhaps a typo or a missing channel);" despite being available from conda-forge confirmed by the [conda package search tool](https://anaconda.org/).
