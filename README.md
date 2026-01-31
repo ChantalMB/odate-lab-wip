@@ -7,7 +7,7 @@ Current instructions for running locally:
 - `git clone` repository
 - `cd` into repository
 - `conda install -c conda-forge jupyterlite-core`
-- `conda install micromamba -c conda-forge  `
+- `conda install micromamba -c conda-forge`
 - `pip install jupyterlite-xeus jupyter_server`
 - `jupyter lite build --output-dir dist`
 - `jupyter lite serve`
