@@ -44,6 +44,7 @@ dependencies:
     # for JupyterLite env
     - jupyterlite-pyodide-kernel
     - jupyterlab-spreadsheet-editor
+    - jupyterlab-day
     # custom extensions
     - odate-extensions/jlab_cell_run-0.1.0-py3-none-any.whl
     - odate-extensions/jlab_solarised_dark_theme-0.2.0-py3-none-any.whl
